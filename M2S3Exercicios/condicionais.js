@@ -35,4 +35,10 @@ switch (opcao){
 
 }
 
+// Exercicio 5 For
+
+for (let index = 1; index <=10; index++){
+    console.log("Multiplos de 9: 9 x "+index+" = "+9*index)
+}
+
 

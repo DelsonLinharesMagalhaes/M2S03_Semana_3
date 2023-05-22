@@ -1,0 +1,11 @@
+let x = document.getElementById("txt");
+setTimeout(function(){ x.value="2 seconds" }, 2000);
+setTimeout(function(){ x.value="4 seconds" }, 4000);
+setTimeout(function(){ x.value="6 seconds" }, 6000);
+setTimeout(function(){ x.value="8 seconds" }, 8000);
+setTimeout(function(){ x.value="10 seconds" }, 10000);
+setTimeout(function(){ x.value="12 seconds" }, 12000);
+setTimeout(function(){ x.value="14 seconds" }, 14000);
+setTimeout(function(){ x.value="16 seconds" }, 16000);
+setTimeout(function(){ x.value="18 seconds" }, 18000);
+setTimeout(function(){ x.value="20 seconds" }, 20000);

@@ -51,6 +51,14 @@ while (contador < quantidade){
     console.log("Adicionado uma unidade de 5kg, total acrescentado "+contador+"kg");
 }
 
+// Exercicio 7 Do While
 
+const regioes = ['Norte', 'Nordeste', 'Centro-oeste','Sudeste','Sul'];
+let index = 0;
+
+do{
+    console.log(regioes[index]);
+    index ++
+}while (index < regioes.length);
 
 

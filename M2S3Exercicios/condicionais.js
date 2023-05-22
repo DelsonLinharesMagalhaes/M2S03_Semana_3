@@ -41,4 +41,16 @@ for (let index = 1; index <=10; index++){
     console.log("Multiplos de 9: 9 x "+index+" = "+9*index)
 }
 
+// Exercicio 6 While
+
+let quantidade =  20;
+let contador = 0;
+
+while (contador < quantidade){
+    contador += 5;
+    console.log("Adicionado uma unidade de 5kg, total acrescentado "+contador+"kg");
+}
+
+
+
 
